@@ -1,0 +1,26 @@
+body 
+{
+     font-family: 'Open Sans', sans-serif;
+      background-color: #F2F2F2; 
+      -webkit-font-smoothing: antialiased; 
+      -webkit-overflow-scrolling: touch;
+}
+
+section
+{ 
+    padding: 50px;
+}
+h3
+{ 
+    text-align: center;
+}
+hr 
+{ 
+    display: block;
+     height: 1px;
+      border: 0;
+       border-top: 2px solid #ccc;
+        margin: 1em 0;
+         padding: 0;
+        }
+        .headerwrap { background: url(../Images/bg01.jpg) no-repeat center top; background-image: url(../Images/bg01.jpg);}.cta01 { background: url(../Images/cta01.jpg) no-repeat center top; background-image: url(../Images/cta01.jpg);}.headerwrap, .cta01{ background-size: cover; min-height: max-content; height: 400px; color:#fff; padding-top: 30px;}.headerwrap .container .row .col-lg-8 h1{ text-align: center; padding-top: 9%;}.headerwrap .container .row .col-lg-4 h2{ padding-top: 10%; font-size: revert;}.btn{ margin-top: 17px; font-size: smaller; letter-spacing: 3px; }#services .container .row h6{ color:#555555;}#services, #integrated{ background-color: #F2F2F2;}#services .container .row p{ color:rgb(179, 179, 179);}#contact-us{ color: #fff;}.container{ margin: 0px 120px 0px 120px;}.container .row .col-lg-4 h3{ margin-top: 70px;}.cta01 .container .row .col-lg-12 h1{ margin-left: 217px; margin-top: 90px;}.card img{ margin: 60px;}#contact-us{ background-color: #2f2f2f;}#support h2{ text-align: center;}footer{ background-color: #222222; color: #fff;}footer p{ line-height: 52px; text-align: center; margin-bottom: 0px; font-size: small;}
